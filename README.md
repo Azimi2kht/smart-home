@@ -1,1 +1,1 @@
-![smart-home](https://github.com/user-attachments/assets/eb5df764-fefb-4585-9070-30e87463d4ad)
+![smart-home (1)](https://github.com/user-attachments/assets/3809fc23-f6f9-4ed8-83a8-14acf86e3d9d)
