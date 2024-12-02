@@ -9,9 +9,9 @@ import time
 
 
 def send_email():
-	email_address = "raspberry.theft@gmail.com"
-	email_key = "tvrl bmez bvpx nzvb"
-	email_receiver = "seyedhamidazimidokht@gmail.com"
+	email_address = "EMAIL_ADDRESS"
+	email_key = "EMAIL_KEY"
+	email_receiver = "RECOVER_EMAIL_ADDRESS"
 	
 	em = EmailMessage()	
 	em['From'] = email_address
