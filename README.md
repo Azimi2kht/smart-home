@@ -14,7 +14,12 @@ This repository contains the code and resources for a smart home system with the
   - Sends an email notification to a configured recipient upon detection of an intrusion.
 - **Real-Time Processing**:
   - Processes images in real-time using YOLOv5 and Raspberry Pi.
-
+- **Efficient Automated Lighting and Cooling Control**:
+  - An intelligent control system for managing lighting and cooling, optimizing energy usage.
+- **controlling and monitoring all inputs and actuners with smartphone**:
+  - Seamless control and real-time monitoring of inputs and actuators via a user-friendly smartphone interface, leveraging Thingsboard for data analysis.
+- **Sound Control Integration**:
+  - Voice-activated and deactivated room lighting for smartphone-free experiences.
 ---
 
 ## Prerequisites
