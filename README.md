@@ -106,7 +106,7 @@ This project is licensed under the MIT License. For more details, refer to the [
 
 ## Acknowledgements
 I thank my team that made this project possible:
-- Ahmad Mardaani
+- Ahmad Mardani
 - Arsalan Talaee
 - Yosef Ghaderi
 
