@@ -5,7 +5,7 @@ import RPi.GPIO as GPIO
 import json
 
 THINGSBOARD_HOST = 'thingsboard.cloud'
-ACCESS_TOKEN = 'oc4JYo0py7EzX2tIHRkE'
+ACCESS_TOKEN = ''
 
 # We assume that all GPIOs are LOW
 gpio_state = {
