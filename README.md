@@ -1,6 +1,7 @@
 
 # Smart Home Project
 ![smart-home-ahmad](https://github.com/user-attachments/assets/74f9eba9-c7b4-4e62-8434-a96f8c5deb0d)
+![smart-home33](https://github.com/user-attachments/assets/90e76188-4864-46bb-9cfc-6cff06727b1a)
 
 This repository contains the code and resources for a smart home system with theft detection functionality. The system uses image processing to detect unauthorized persons and sends email notifications when an intrusion is detected.
 
