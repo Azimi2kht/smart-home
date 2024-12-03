@@ -16,7 +16,7 @@ This repository contains the code and resources for a smart home system with the
   - Processes images in real-time using YOLOv5 and Raspberry Pi.
 - **Efficient Automated Lighting and Cooling Control**:
   - An intelligent control system for managing lighting and cooling, optimizing energy usage.
-- **controlling and monitoring all inputs and actuners with smartphone**:
+- **Controlling and Monitoring All Inputs and Actuners With Smartphone**:
   - Seamless control and real-time monitoring of inputs and actuators via a user-friendly smartphone interface, leveraging Thingsboard for data analysis.
 - **Sound Control Integration**:
   - Voice-activated and deactivated room lighting for smartphone-free experiences.
